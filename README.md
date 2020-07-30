@@ -9,7 +9,10 @@ cd VK_crazy_typing_bot
 npm i VK-Promise@0.3.2
 
 ```
+
 ### Commands:
+
+**in this version of the script, the time must be specified!**
 
 /typing **number** - turns on text crazy taiping in the dialog in which the command was written (time is specified in minutes).
 
