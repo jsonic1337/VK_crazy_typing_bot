@@ -34,7 +34,7 @@ vk.on('message', function onMessage(event, msg) {
 				await timer(5000);
 			}
 		})()
-	} else if (msg.body == '/стоп') {
+	} else if (msg.body == '/stop') {
 		value = false;
 		delete_msg(msg);
 	}
