@@ -1,8 +1,8 @@
 let VK = require("VK-Promise"),
-	vk = new VK(" token "); //token
+    vk = new VK(" token "); //token
 var typing = "/typing",
-	audiomessage = "/voice",
-  value = true;
+    audiomessage = "/voice",
+    value = true;
 vk.longpoll.start();
 vk.on('message', function onMessage(event, msg) {
 	if (!msg.out) return
