@@ -14,8 +14,8 @@ npm i VK-Promise@0.3.2
 
 **in this version of the script, the time must be specified!**
 
-/typing **number** - turns on text crazy taiping in the dialog in which the command was written (time is specified in minutes).
+/typing **number** - turns on text crazy typing in the dialog in which the command was written (time is specified in minutes).
 
-/voice **number** - turns on voice crazy taiping in the dialog in which the command was written (time is specified in minutes).
+/voice **number** - turns on voice crazy typing in the dialog in which the command was written (time is specified in minutes).
 
-/stop -  stops crazy tapping (works in any dialogue)
+/stop -  stops crazy typing (works in any dialogue)
